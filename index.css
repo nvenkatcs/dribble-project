@@ -1,0 +1,165 @@
+* {
+    background-color: #E8E8E8;
+}
+
+.navbar-nav {
+    float: right;
+}
+
+body {
+    background-color: #E8E8E8;
+}
+
+.btn-active {
+    background-color: #002244;
+}
+
+.navbar-default {
+    margin-top: 2ch;
+    border: none;
+    margin-left: 3ch;
+    margin-right: 3ch;
+    margin-top: 3ch;
+}
+
+.title-second {
+    color: #00008B;
+}
+
+.title-first {
+    color: #002244;
+}
+
+.navbar-brand {
+    font-weight: 1000;
+    font-size: 23px;
+    line-height: 22px;
+}
+
+.navbar-nav {
+    font-size: 18px;
+    color: black;
+}
+
+.navbar-nav a:hover {
+    border-bottom: 2px solid red;
+}
+
+#box-container {
+    margin-left: 3ch;
+    margin-right: 3ch;
+    display: flex;
+    height: 400px;
+    width: auto;
+}
+
+#container-left {
+    width: 50%;
+    height: 100%;
+}
+
+#container-right {
+    width: 50%;
+    height: 100%;
+}
+
+.content {
+    margin-left: 5ch;
+    margin-top: 5ch;
+    font-weight: 1000;
+    font-size: 40px;
+}
+
+.para-content {
+    margin-left: 14.5ch;
+}
+
+.image {
+    margin-left: 8ch;
+    margin-top: 7ch;
+    border-radius: 50%;
+    background-color: rgba(128, 128, 128, 0.6);
+}
+
+.button {
+    background-color: #0000FF;
+    border-radius: 24px;
+    color: black;
+    padding: 11px 16px;
+    margin-left: 15ch;
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.4);
+}
+
+.button-video {
+    border-radius: 24px;
+    color: black;
+    padding: 7px 25px;
+    margin-left: 2ch;
+}
+
+#category {
+    display: flex;
+    height: 195px;
+    width: auto;
+}
+
+#explore {
+    width: 40%;
+    height: 100%;
+    background-color: #13274F;
+    border-top-left-radius: 5ch;
+}
+
+#uxdesign {
+    width: 20%;
+    height: 100%;
+    background-color: #13274F;
+}
+
+#creativeideas {
+    width: 20%;
+    height: 100%;
+    background-color: #13274F;
+}
+
+#fashion {
+    width: 20%;
+    height: 100%;
+    background-color: #13274F;
+    border-top-right-radius: 5ch;
+}
+
+h4 {
+    background-color: #13274F;
+    color: white;
+    margin-left: 13ch;
+    margin-top: 5ch;
+}
+
+h2 {
+    background-color: #13274F;
+    color: white;
+    font-weight: 850;
+    margin-left: 7.5ch;
+}
+
+.img-uxdesign {
+    margin-top: 4ch;
+    background-color: #13274F;
+}
+
+.head-title {
+    background-color: #13274F;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.head-para {
+    background-color: #13274F;
+    color: white;
+}
+
+#active {
+    color: white;
+}
