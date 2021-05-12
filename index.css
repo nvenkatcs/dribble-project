@@ -41,9 +41,6 @@ body {
     color: black;
 }
 
-.navbar-nav a:hover {
-    border-bottom: 2px solid red;
-}
 
 #box-container {
     margin-left: 3ch;
